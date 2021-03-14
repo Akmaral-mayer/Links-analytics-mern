@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "Akmaral wants to be happy",
+  "mongoUri": "mongodb+srv://mayerwell:mymern1234@cluster0.7a3py.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
